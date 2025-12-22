@@ -68,17 +68,6 @@
 
 ---
 
-## Stats and activity
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_GITHUB_USERNAME&theme=tokyonight&hide_border=true" alt="Streak Stats" />
-</p>
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=tokyonight&hide_border=true" alt="Top Langs" />
-</p>
-
----
-
 ## Contact
 - **Email:** raushan9263657373@gmail.com  
 - **LinkedIn:** Add your URL in the header badges ☝️
@@ -89,9 +78,3 @@
 <details>
   <summary><b>Spring Boot API starter</b> ⚙️</summary>
 
-```bash
-# Create project
-spring init --dependencies=web,validation,lombok,data-jpa,security --build=gradle demo-api
-
-# Run
-./gradlew bootRun
