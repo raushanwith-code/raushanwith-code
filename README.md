@@ -6,9 +6,7 @@
 <p align="center">
   <a href="mailto:raushan9263657373@gmail.com"><img src="https://img.shields.io/badge/Email-Contact-FF2D55?style=for-the-badge&logo=gmail&logoColor=white"></a>
   <!-- Add your LinkedIn link here -->
-  <a href="www.linkedin.com/in/raushan-kumar-952987339
-
-"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+  <a href="#"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"></a>
 </p>
 
 ---
@@ -72,7 +70,9 @@
 
 ## Contact
 - **Email:** raushan9263657373@gmail.com  
-- **LinkedIn:** Add your URL in the header badges ☝️
+- **LinkedIn:** (www.linkedin.com/in/raushan-kumar-952987339
+
+) ☝️
 
 ---
 
