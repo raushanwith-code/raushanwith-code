@@ -1,5 +1,5 @@
-  # Hi ![wave animated gif] (https://user-images.githubusercontent.com/74038190/213910845-af37a709-8995-40d6-be59-724526e3c3d7.gif), I'm Raushan Kumar
-![Waving hand gif](https://raw.githubusercontent.com/nixin72/nixin72/master/wave.gif)
+  # Hi , I'm Raushan Kumar
+![wave animated gif] (https://user-images.githubusercontent.com/74038190/213910845-af37a709-8995-40d6-be59-724526e3c3d7.gif)
 
 ### 🚀 A 2rd year student pursuing B.Tech in Computer Science  
 ### 💻 A passionate Software Engineer  
