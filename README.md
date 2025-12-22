@@ -1,44 +1,53 @@
-# Hi there 👋, I'm Raushan!  
+# Hi there 👋, I'm Raushan Kumar
+![Waving hand gif](https://raw.githubusercontent.com/AyushiChopra02/AyushiChopra02/main/assets/wave.gif)
 
-🚀 **Passionate Developer | Lifelong Learner | Problem Solver**  
-
-Welcome to my GitHub profile! I love building impactful projects, learning new technologies, and collaborating with amazing people.  
-
----
-
-## 🌟 About Me  
-- 🔭 Currently working on **exciting projects in Web Development & Open Source**  
-- 🌱 Learning **Next.js, TypeScript, and Cloud Technologies**  
-- 👯 Looking to collaborate on **innovative projects & hackathons**  
-- 💬 Ask me about **JavaScript, React, Node.js, and DSA**  
-- 📫 Reach me at: **[LinkedIn](https://www.linkedin.com/in/your-link)** | **[Email](mailto:your-email@gmail.com)**  
-- ⚡ Fun fact: *I believe clean code is like good poetry – simple yet powerful!*  
+### 🚀 A 2rd year student pursuing B.Tech in Computer Science  
+### 💻 A passionate Software Engineer  
+### 🧑‍💻 Coding Enthusiast  
 
 ---
 
-## 🛠️ Tech Stack  
-**Languages:**  
-`JavaScript` | `TypeScript` | `Python` | `C++`  
+## 📫 How to reach me  
+📧 **raushan9263657373@gmail.com**  
 
-**Frameworks & Libraries:**  
-`React.js` | `Next.js` | `Node.js` | `Express.js`  
-
-**Databases & Tools:**  
-`MongoDB` | `MySQL` | `Git & GitHub` | `Docker`  
+GitHub: **raushanwith-code**
 
 ---
 
-## 📊 GitHub Stats  
-![Raushan's GitHub stats](https://github-readme-stats.vercel.app/api?username=raushanwith-code&show_icons=true&theme=radical)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=raushanwith-code&layout=compact&theme=radical)  
+## 🛠️ Languages and Tools  
+![Bootstrap](https://img.shields.io/badge/-Bootstrap-blueviolet?style=flat&logo=bootstrap)  
+![C](https://img.shields.io/badge/-C-blue?style=flat&logo=c)  
+![CSS3](https://img.shields.io/badge/-CSS3-blue?style=flat&logo=css3)  
+![HTML5](https://img.shields.io/badge/-HTML5-orange?style=flat&logo=html5)  
+![Java](https://img.shields.io/badge/-Java-red?style=flat&logo=java)  
+![JavaScript](https://img.shields.io/badge/-JavaScript-yellow?style=flat&logo=javascript)  
+![Node.js](https://img.shields.io/badge/-Node.js-green?style=flat&logo=node.js)  
+![MongoDB](https://img.shields.io/badge/-MongoDB-darkgreen?style=flat&logo=mongodb)  
+![MySQL](https://img.shields.io/badge/-MySQL-blue?style=flat&logo=mysql)  
+![Python](https://img.shields.io/badge/-Python-lightblue?style=flat&logo=python)  
+
+---
+
+## 💖 Support  
+If you like my work, consider following me here: **raushanwith-code**
+
+---
+
+## 📊 Languages Used  
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=raushanwith-code&layout=compact&theme=radical)
+
+---
+
+## ⚡ My GitHub Stats  
+![Raushan's GitHub stats](https://github-readme-stats.vercel.app/api?username=raushanwith-code&show_icons=true&theme=radical)
+
+---
+
+## 🔥 My GitHub Streaks  
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=raushanwith-code&theme=radical)
 
 ---
 
 ## 🌐 Connect With Me  
-🌟 [Portfolio Website](https://your-portfolio-link.com)  
-💼 [LinkedIn](https://www.linkedin.com/in/your-link)  
-📧 [Email](mailto:your-email@gmail.com)  
-
----
-
-✨ *Thanks for visiting my profile! Let’s build something amazing together.* ✨
+💼 [LinkedIn](www.linkedin.com/in/raushan-kumar-952987339)   
+📧 [Email](mailto:raushan.email@gmail.com)  
