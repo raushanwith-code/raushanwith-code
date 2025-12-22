@@ -6,13 +6,15 @@
 <p align="center">
   <a href="mailto:raushan9263657373@gmail.com"><img src="https://img.shields.io/badge/Email-Contact-FF2D55?style=for-the-badge&logo=gmail&logoColor=white"></a>
   <!-- Add your LinkedIn link here -->
-  <a href="#"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+  <a href="www.linkedin.com/in/raushan-kumar-952987339
+
+"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"></a>
 </p>
 
 ---
 
 ## About me
-- **Focus:** Backend-heavy web apps, APIs, and clean system design ⚙️  
+- **Focus:** Backend-web apps, APIs, and clean system design ⚙️  
 - **Strengths:** Performance, reliability, and clear abstractions 🧠  
 - **Mindset:** Test-first, secure-by-default, and production-ready 🔐
 
