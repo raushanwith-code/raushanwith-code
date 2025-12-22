@@ -1,6 +1,8 @@
 <!-- Profile Header -->
-<h1 align="center">🚀 Advanced, Animated & Professional README</h1>
-<p align="center">
+<h1 align="center">🚀 Hi👋, I'm Raushan Kumar</h1>
+<p align="center">![WavingHiGIF](https://github.com/user-attachments/assets/d9f70d92-61c0-429c-99ec-d2e8fc456a32)
+![CuteChaPriGIF](https://github.com/user-attachments/assets/bdb75131-e4dc-421b-bf5e-cd19926d79b9)
+
   <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=22&duration=3000&pause=500&color=FF2D55&center=true&vCenter=true&width=700&lines=Building+robust+backends+%26+clean+frontends;Java+%7C+Spring+Boot+%7C+Node.js+%7C+MongoDB;Writing+performant+%26+secure+code;Always+learning%2C+always+shipping+💻" alt="Typing SVG" />
 </p>
 
@@ -82,7 +84,7 @@
 
 ## Contact
 - **Email:** raushan9263657373@gmail.com  
-- **LinkedIn:** Add your URL in the header badges ☝️
+- **LinkedIn:** (www.linkedin.com/in/raushan-kumar-952987339) ☝️
 
 ---
 
