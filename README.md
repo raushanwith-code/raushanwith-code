@@ -1,7 +1,6 @@
 <!-- Profile Header -->
 <h1 align="center">Hi 👋, I'm Raushan Kumar</h1>
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=22&duration=3000&pause=500&color=FF2D55&center=true&vCenter=true&width=700&lines=Building+robust+backends+%26+clean+frontends;Java+%7C+Spring+Boot+%7C+Node.js+%7C+MongoDB;Writing+performant+%26+secure+code;Always+learning%2C+always+shipping+💻" alt="Typing SVG" />
 </p>
 
 <p align="center">
