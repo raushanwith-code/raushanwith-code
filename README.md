@@ -79,20 +79,19 @@
 [<img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />](_)
 </p>
 <!-- GitHub Streak -->
+<h1 align="center">Hi, I'm Raushan 👨‍💻</h1>
+
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=raushanwith-code&theme=radical&hide_border=true" alt="GitHub Streak" />
 </p>
 
-<!-- GitHub Stats -->
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=raushanwith-code&show_icons=true&theme=radical&hide_border=true" alt="GitHub Stats" />
 </p>
 
-<!-- Top Languages -->
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=raushanwith-code&layout=compact&theme=radical&hide_border=true" alt="Top Languages" />
 </p>
-
 
 
 
