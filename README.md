@@ -15,6 +15,7 @@
 ---
 
 ## About me
+### `I am open to`<img  alt="Coding" width="50" src="https://user-images.githubusercontent.com/71630336/167283483-1b2b2630-f02a-487b-823a-839d3739452a.gif">:
 - **Focus:** Backend-web apps, APIs, and clean system design ⚙️  
 - **Strengths:** Performance, reliability, and clear abstractions 🧠  
 - **Mindset:** Test-first, secure-by-default, and production-ready 🔐
