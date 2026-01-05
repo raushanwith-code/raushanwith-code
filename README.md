@@ -68,19 +68,34 @@
 - **Label:** MongoDB data layer  
   - Aggregation pipelines, indexes, and repository patterns.
 
-> Add your repo links above — keep them short, with one killer line per project.
+
 
 ---
+ ### `Connect with me` <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Handshake.gif" height="32px">:
 
-## Contact
-- **Email:** raushan9263657373@gmail.com  
-- **LinkedIn:** (www.linkedin.com/in/raushan-kumar-952987339
+<p align = "center">
 
-) ☝️
+[<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](http://www.linkedin.com/in/raushan-kumar-952987339)
+[<img src="https://img.shields.io/badge/medium-%2312100E.svg?&style=for-the-badge&logo=medium&logoColor=white&color=black" />](https://medium.com/@raushanwith-code)
+[<img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />](_)
+</p>
 
----
+<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=raushanwith-code" alt="Prinshu's github stats" /></a> | <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=raushanwith-code&show_icons=true&theme=radical" alt="Raushan's github stats" /></a> | <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=raushanwith-code&layout=compact)](https://github.com/anuraghazra/github-readme-stats" /></a> | 
 
-## Quick start templates
-<details>
-  <summary><b>Spring Boot API starter</b> ⚙️</summary>
 
+
+
+<!--
+
+
+Here are some ideas to get you started:
+
+- 🔭 I’m currently working on ...
+- 🌱 I’m currently learning ...
+- 👯 I’m looking to collaborate on ...
+- 🤔 I’m looking for help with ...
+- 💬 Ask me about ...
+- 📫 How to reach me: ...
+- 😄 Pronouns: ...
+- ⚡ Fun fact: ...
+-->
