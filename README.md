@@ -49,6 +49,7 @@
 ---
 
 ## Highlights
+<img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/71630336/167283188-f5e9687e-736f-4b1c-8e1d-77b227e008dd.gif">
 - **Backend APIs:** Robust REST with Spring Boot and Express.js, clean DTOs, layered architecture, proper error handling 🧩  
 - **Data:** MongoDB with indexes, aggregations, and clear schema versioning 📚  
 - **Security:** JWT, CORS, validation, rate limiting, and secure headers 🔒  
