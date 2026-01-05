@@ -76,11 +76,22 @@
 <p align = "center">
 
 [<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](http://www.linkedin.com/in/raushan-kumar-952987339)
-[<img src="https://img.shields.io/badge/medium-%2312100E.svg?&style=for-the-badge&logo=medium&logoColor=white&color=black" />](https://medium.com/@raushanwith-code)
 [<img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />](_)
 </p>
+<!-- GitHub Streak -->
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=raushanwith-code&theme=radical&hide_border=true" alt="GitHub Streak" />
+</p>
 
-<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=raushanwith-code" alt="Prinshu's github stats" /></a> | <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=raushanwith-code&show_icons=true&theme=radical" alt="Raushan's github stats" /></a> | <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=raushanwith-code&layout=compact)](https://github.com/anuraghazra/github-readme-stats" /></a> | 
+<!-- GitHub Stats -->
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=raushanwith-code&show_icons=true&theme=radical&hide_border=true" alt="GitHub Stats" />
+</p>
+
+<!-- Top Languages -->
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=raushanwith-code&layout=compact&theme=radical&hide_border=true" alt="Top Languages" />
+</p>
 
 
 
