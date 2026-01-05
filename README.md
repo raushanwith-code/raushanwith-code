@@ -79,9 +79,7 @@
 [<img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />](_)
 </p>
 <!-- GitHub Streak -->
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=raushanwith-code&theme=radical&hide_border=true" alt="GitHub Streak" />
-</p>
+<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=prinshu967" alt="Prinshu's github stats" /></a> | <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=prinshu967&show_icons=true&theme=radical" alt="Prinshu's github stats" /></a> | <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=prinshu967&layout=compact)](https://github.com/anuraghazra/github-readme-stats" /></a> | 
 
 
 <!--
