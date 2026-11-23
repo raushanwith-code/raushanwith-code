@@ -165,7 +165,7 @@
 ## 📬 Connect With Me
 
 <p align="center">
-  <i>Always open to interesting conversations, collaborations, or just a good chat!</i>
+  <i>Always open to interesting conversations, collaborations, open-source contributions, and internship opportunities!</i>
 </p>
 
 <p align="center">
@@ -197,6 +197,7 @@
 <p align="center">
   <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 </p>
+
 ## 💭 Quote Of The Day
 
 <p align="center">
