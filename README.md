@@ -1,60 +1,71 @@
-<!-- Header -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:8A2BE2,100:6A5ACD&height=250&section=header&text=Raushan%20Kumar&fontSize=55&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Frontend%20Developer%20|%20React.js%20Developer%20|%20DSA%20Enthusiast&descSize=18&descAlignY=58" width="100%"/>
+### 💻 Technology Stack
 
 <p align="center">
-  <img src="https://i.pinimg.com/originals/b3/26/51/b326517cd8ca44b939a1bee41a7f103c.gif" width="100%" />
+
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" width="60"/>
+&nbsp;
+
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" width="60"/>
+&nbsp;
+
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="60"/>
+&nbsp;
+
+<img src="https://media.giphy.com/media/ln7z2eWriiQAllfVcn/giphy.gif" width="60"/>
+&nbsp;
+
+<img src="https://media.giphy.com/media/XAxylRMCdpbEWUAvr8/giphy.gif" width="60"/>
+&nbsp;
+
+<img src="https://media.giphy.com/media/fsEaZldNC8A1PJ3mwp/giphy.gif" width="60"/>
+&nbsp;
+
+<img src="https://i.giphy.com/media/eNAsjO55tPbgaor7ma/200w.webp" width="60"/>
+&nbsp;
+
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-original.svg" width="60"/>
+&nbsp;
+
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="60"/>
+&nbsp;
+
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" width="60"/>
+&nbsp;
+
+<img src="https://media.giphy.com/media/wMGYl0PHrdazsC5HGQ/giphy.gif" width="60"/>
+&nbsp;
+
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/spring/spring-original.svg" width="60"/>
+&nbsp;
+
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/spring/spring-original.svg" width="60" alt="Spring Boot"/>
+
+&nbsp;
+
+<img src="https://media.giphy.com/media/tAjb5pyCEBhEb8jWxC/giphy.gif" width="60"/>
+
+&nbsp;
+
+<img src="https://media.giphy.com/media/W71QxkQgCDM1WJYdFz/giphy.gif" width="60"/>
+
+&nbsp;
+
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" width="60"/>
+
+&nbsp;
+
+<img src="https://i.giphy.com/media/KzJkzjggfGN5Py6nkT/200.webp" width="60"/>
+
+&nbsp;
+
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" width="60"/>
+
+&nbsp;
+
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" width="60"/>
+
+&nbsp;
+
+<img src="https://i.giphy.com/media/IdyAQJVN2kVPNUrojM/200.webp" width="60"/>
+
 </p>
-
-<h1 align="center">Hi 👋, I'm Raushan Kumar</h1>
-
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&duration=3000&pause=1000&color=8A2BE2&center=true&vCenter=true&width=900&lines=Frontend+Developer;React.js+Developer;650%2B+LeetCode+Problems+Solved;Passionate+About+Web+Development;Always+Learning+New+Technologies" />
-</p>
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=raushanwith-code&style=for-the-badge&color=blueviolet" />
-</p>
-
----
-
-## 🚀 About Me
-
-<img align="right" alt="Coding" width="350" src="https://user-images.githubusercontent.com/71630336/167283188-f5e9687e-736f-4b1c-8e1d-77b227e008dd.gif">
-
-- 🎓 B.Tech Student at **Arya College of Engineering & IT**
-- 💻 Frontend Developer focused on modern UI & responsive design
-- ⚛️ Skilled in **HTML, CSS, JavaScript, React.js**
-- 🌱 Currently learning **Advanced React & Backend Development**
-- 🧠 Solved **650+ DSA Problems**
-- 🚀 Looking for Frontend Developer Internship Opportunities
-- 🤝 Open Source & Real World Project Enthusiast
-
----
-
-## 🛠️ Tech Stack
-
-<p align="center">
-<img src="https://skillicons.dev/icons?i=c,cpp,java,js,html,css,react,bootstrap,git,github,vscode" />
-</p>
-
----
-
-## 📈 GitHub Statistics
-
-<p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=raushanwith-code&show_icons=true&theme=tokyonight&hide_border=true" />
-  
-  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=raushanwith-code&theme=tokyonight&hide_border=true" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=raushanwith-code&theme=tokyo-night&hide_border=true" width="100%">
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=raushanwith-code&layout=compact&theme=tokyonight&hide_border=true">
-</p>
-
----
-
-## 🏆 Coding Journey
