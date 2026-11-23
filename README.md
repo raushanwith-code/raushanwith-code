@@ -1,10 +1,9 @@
-<!-- Wave Divider -->
+<!-- Wave divider -->
 <p align="center">
   <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 </p>
 
-<!-- Header -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=220&section=header&text=Raushan%20Kumar&fontSize=50&fontColor=fff&animation=twinkling&fontAlignY=35&desc=Full%20Stack%20Developer%20|%20650%2B%20LeetCode%20Problems%20Solved&descSize=18&descAlignY=55" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Raushan%20Kumar&fontSize=50&fontColor=fff&animation=twinkling&fontAlignY=35&desc=Full%20Stack%20Developer%20%7C%20650%2B%20LeetCode%20Problems%20Solved&descSize=18&descAlignY=55" width="100%"/>
 
 <p align="center">
   <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
@@ -21,54 +20,56 @@
 
 <!-- Profile Views -->
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=raushanwith-code&style=for-the-badge&color=blueviolet"/>
+  <img src="https://komarev.com/ghpvc/?username=raushanwith-code&style=for-the-badge&color=blueviolet" alt="Profile Views">
 </p>
 
 <!-- Typing Animation -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Architects+Daughter&center=true&vCenter=true&duration=3500&color=38C2FF&size=38&height=130&width=1000&lines=Heyyy!+I'm+Raushan+Kumar+👋;Full+Stack+Developer+💻;DSA+Enthusiast+🧠;650%2B+LeetCode+Problems+Solved+🏆;JavaScript+Developer+⚡;React.js+Developer+🚀;Spring+Boot+Developer+☕;Rajasthan+Technical+University+🎓;Building+Real+World+Projects+🚀;Welcome+To+My+GitHub+Profile"/>
+  <img src="https://readme-typing-svg.demolab.com?font=Architects+Daughter&center=true&vCenter=true&duration=3500&color=38C2FF&size=38&height=130&width=1000&lines=Heyyy!+I'm+Raushan+Kumar+%F0%9F%91%8B;Full+Stack+Developer+%F0%9F%92%BB;DSA+Enthusiast+%F0%9F%A7%A0;650%2B+LeetCode+Problems+Solved+%F0%9F%8F%86;React.js+%26+Spring+Boot+Developer+%F0%9F%9A%80;Rajasthan+Technical+University+%F0%9F%8E%93;Building+Real+World+Projects+%E2%9A%A1;Welcome+to+my+profile+!">
 </p>
 
 <p align="center">
   <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 </p>
 
-## 🙋‍♂️ About Me
+### 🙋‍♂️ About Me
 
-- 🎓 B.Tech Student at Rajasthan Technical University
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1500&color=F7B93E&center=true&vCenter=true&width=700&lines=B.Tech+Student+%40+Rajasthan+Technical+University;Full+Stack+Developer+(React+%2B+Spring+Boot);Solved+650%2B+LeetCode+Problems;Learning+Backend+%26+System+Design" alt="About Me">
+</p>
+
+- 🎓 B.Tech Student at **Rajasthan Technical University**
 - 💻 Full Stack Developer
-- 🧠 DSA Enthusiast
-- 🏆 Solved 650+ LeetCode Problems
+- 🧠 DSA Enthusiast — **650+ LeetCode** problems solved
 - ⚛️ React.js Developer
 - ☕ Spring Boot Developer
 - 🚀 Building Real World Projects
-- 🌱 Learning Backend Development & System Design
+- 🌱 Currently learning **Backend Development & System Design**
 
 <p align="center">
   <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 </p>
 
-## 📈 Contribution Statistics
+### 📈 Contribution Statistics
 
 <p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=raushanwith-code&show_icons=true&theme=tokyonight&hide_border=true&count_private=true"/>
-
-  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=raushanwith-code&theme=tokyonight&hide_border=true"/>
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=raushanwith-code&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
+  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=raushanwith-code&theme=tokyonight&hide_border=true" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=raushanwith-code&theme=tokyo-night&hide_border=true" width="100%"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=raushanwith-code&theme=tokyo-night&hide_border=true" width="100%" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=raushanwith-code&layout=compact&theme=tokyonight&hide_border=true&langs_count=8"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=raushanwith-code&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" />
 </p>
 
 <p align="center">
   <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 </p>
 
-## 💻 Technology Stack
+### 💻 Technology Stack
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="C" width="60"/>
@@ -140,16 +141,24 @@
   <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="Scikit-learn" width="60"/>
 </p>
 
-## 🐍 Let the Snake Eat My Contributions
-
 <p align="center">
-  <img src="https://raw.githubusercontent.com/raushanwith-code/raushanwith-code/output/github-contribution-grid-snake-dark.svg"/>
+  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 </p>
 
-## 🎧 Currently Listening To
+### 🐍 Let the Snake eat my Contributions
 
 <p align="center">
-  <a href="https://open.spotify.com">
+  <img src="https://raw.githubusercontent.com/raushanwith-code/raushanwith-code/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
+</p>
+
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+</p>
+
+### 🎧 Currently Listening To
+
+<p align="center">
+  <a href="https://open.spotify.com" target="_blank">
     <img src="https://spotify-now-playing-gold-seven.vercel.app/api/now-playing" alt="Now Playing on Spotify">
   </a>
 </p>
@@ -158,29 +167,42 @@
   <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 </p>
 
-## 📬 Connect With Me
+### 📬 Connect With Me
 
 <p align="center">
   <i>Always open to interesting conversations, collaborations, open-source contributions, and internship opportunities!</i>
 </p>
 
 <p align="center">
-
-<a href="mailto:raushan9263657373@gmail.com">
-  <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
-
-&nbsp;
-
-<a href="https://www.linkedin.com/in/raushan-kumar062/">
-  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
-
-&nbsp;
-
-<a href="https://github.com/raushanwith-code">
- 
+  <a href="mailto:raushan9263657373@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  &nbsp;
+  <a href="https://www.linkedin.com/in/raushan-kumar062/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  &nbsp;
+  <a href="https://github.com/raushanwith-code" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+</p>
 
 <p align="center">
-Made with ❤️ by <b>Raushan Kumar</b>
+  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 </p>
+
+### 💭 Quote of the Day
+
+<p align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" />
+</p>
+
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+</p>
+
+<p align="center">
+  Made with ❤️ by <b>Raushan Kumar</b>
+</p>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer" width="100%"/>
