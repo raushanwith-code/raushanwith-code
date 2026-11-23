@@ -183,34 +183,7 @@
 &nbsp;
 
 <a href="https://github.com/raushanwith-code">
-  <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
-
-&nbsp;
-
-<a href="https://topmate.io/raushanwith-code">
-  <img src="https://img.shields.io/badge/Topmate-6C63FF?style=for-the-badge&logo=calendly&logoColor=white"/>
-</a>
-
-</p>
-
-<p align="center">
-  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-</p>
-
-## 💭 Quote Of The Day
-
-<p align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight"/>
-</p>
-
-<p align="center">
-  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-</p>
-
-<h3 align="center">
-⭐ Thanks For Visiting My Profile ⭐
-</h3>
+ 
 
 <p align="center">
 Made with ❤️ by <b>Raushan Kumar</b>
