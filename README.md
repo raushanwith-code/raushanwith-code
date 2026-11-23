@@ -145,64 +145,9 @@
   <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 </p>
 
-### 🐍 Let the Snake eat my Contributions
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/raushanwith-code/raushanwith-code/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
-</p>
-
-<p align="center">
-  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-</p>
-
-### 🎧 Currently Listening To
-
-<p align="center">
-  <a href="https://open.spotify.com" target="_blank">
-    <img src="https://spotify-now-playing-gold-seven.vercel.app/api/now-playing" alt="Now Playing on Spotify">
-  </a>
-</p>
-
-<p align="center">
-  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-</p>
-
-### 📬 Connect With Me
-
-<p align="center">
-  <i>Always open to interesting conversations, collaborations, open-source contributions, and internship opportunities!</i>
-</p>
-
-<p align="center">
-  <a href="mailto:raushan9263657373@gmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-  &nbsp;
-  <a href="https://www.linkedin.com/in/raushan-kumar062/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  &nbsp;
-  <a href="https://github.com/raushanwith-code" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
-  </a>
-</p>
-
-<p align="center">
-  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-</p>
-
-### 💭 Quote of the Day
-
-<p align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" />
-</p>
-
-<p align="center">
-  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-</p>
-
-<p align="center">
-  Made with ❤️ by <b>Raushan Kumar</b>
-</p>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer" width="100%"/>
+🐍 Let the Snake Eat My Contributions
+<p align="center"> <img src="https://raw.githubusercontent.com/raushanwith-code/raushanwith-code/output/github-contribution-grid-snake-dark.svg" alt="Snake animation"/> </p>
+📬 Connect With Me
+<p align="center"> <i>Always open to interesting conversations, collaborations, open-source contributions, and internship opportunities!</i> </p> <p align="center"> <a href="mailto:raushan9263657373@gmail.com"> <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/> </a> <a href="https://www.linkedin.com/in/raushan-kumar062/"> <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/> </a> <a href="https://github.com/raushanwith-code"> <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/> </a> </p>
+💭 Quote of the Day
+<p align="center"> <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Quote"/> </p> <p align="center">Made with ❤️ by <b>Raushan Kumar</b></p> <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer" width="100%" alt="Footer"/>
