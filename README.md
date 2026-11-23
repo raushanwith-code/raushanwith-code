@@ -20,7 +20,7 @@
 
 <!-- Profile Views -->
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=BhuwanSKumar&style=for-the-badge&color=blueviolet" alt="Profile Views">
+  <img src="https://komarev.com/ghpvc/?username=raushanwith-code&style=for-the-badge&color=blueviolet" alt="Profile Views">
 </p>
 
 <!-- Typing Animation -->
@@ -37,16 +37,16 @@
 ### 📈 Contribution Statistics
 
 <p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=BhuwanSKumar&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
-  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=BhuwanSKumar&theme=tokyonight&hide_border=true" />
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=raushanwith-code&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
+  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=raushanwith-code&theme=tokyonight&hide_border=true" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=BhuwanSKumar&theme=tokyo-night&hide_border=true" width="100%" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=raushanwith-code&theme=tokyo-night&hide_border=true" width="100%" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=BhuwanSKumar&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=raushanwith-code&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" />
 </p>
 
 <p align="center">
@@ -134,7 +134,7 @@
 ### 🐍 Let the Snake eat my Contributions
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/BhuwanSKumar/BhuwanSKumar/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
+  <img src="https://raw.githubusercontent.com/raushanwith-code/raushanwith-code/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
 </p>
 
 <p align="center">
@@ -164,11 +164,11 @@
 </p>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/bhuwan-saretia/" target="_blank">
+  <a href="https://www.linkedin.com/in/raushan-kumar062/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   &nbsp;
-  <a href="https://topmate.io/bhuwan_saretia" target="_blank">
+  <a href="https://topmate.io/raushanwith-code" target="_blank">
     <img src="https://img.shields.io/badge/Topmate.io-6C63FF?style=for-the-badge&logo=calendly&logoColor=white" />
   </a>
   &nbsp;
